@@ -55,7 +55,7 @@ def run():
     
     with col2:
 
-        print(__file__)
+        st.write(__file__)
         st.image("GIF/intro.gif")
 
     for i in range(3):
