@@ -17,7 +17,7 @@ for i in range(3):
     st.text("")
 
 
-st.image("../Screenshot 2023-04-12 at 1.36.34 AM.png")
+st.image("./hello-main/Screenshot 2023-04-12 at 1.36.34 AM.png")
 
 col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
 if col7.button('Next'):

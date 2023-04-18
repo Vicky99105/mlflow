@@ -70,7 +70,7 @@ col1, col2 = st.columns([10,1])
 col1.code(code_str, language = "python")
 btn = col2.button("Run", key = "3")
 if btn:
-    st.image("../Screenshot 2023-04-12 at 12.45.26 PM.png", width = 600)
+    st.image("./hello-main/Screenshot 2023-04-12 at 12.45.26 PM.png", width = 600)
 
 col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
 if col7.button('Next'):

@@ -60,7 +60,7 @@ btn = col2.button("Run", key = "2")
 
 st.text("you will see all the models logged inside dashboard")
 
-st.image("../GIF/track-13.png", width = 650)
+st.image("./hello-main/GIF/track-13.png", width = 650)
 
 col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
 if col7.button('Next'):

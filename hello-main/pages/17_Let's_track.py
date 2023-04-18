@@ -33,7 +33,7 @@ col1, col2 = st.columns([10,1])
 col1.code(code,"python")
 btn = col2.button("Run", key = "1")
 if btn:
-    st.image("../GIF/track-7.png", width = 650)
+    st.image("./hello-main/GIF/track-7.png", width = 650)
 
 for i in range(2):
     st.text("")
@@ -44,7 +44,7 @@ st.text("( Observe run name, metrics, duration , and model logged.)")
 st.video("../GIF/track-9.mov")
 
 st.text("""If you click on the run name, you’ll see something like the following:""")
-st.image("../GIF/track-11.png", width = 650)
+st.image("./hello-main/GIF/track-11.png", width = 650)
 
 col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
 if col7.button('Next'):

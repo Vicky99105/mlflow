@@ -16,7 +16,7 @@ or
 
 """)
 
-st.image("../GIF/track-4.png",width=700)
+st.image("./hello-main/GIF/track-4.png",width=700)
 
 st.markdown(""" You can see our experiment name `article_recommender_system` 
 here and other named `Default` but nothing has been logged yet""")
@@ -54,7 +54,7 @@ col1, col2 = st.columns([10,1])
 col1.code(code,"python")
 btn = col2.button("Run", key = "1")
 if btn:
-    st.image("../GIF/track-5.png", width = 650)
+    st.image("./hello-main/GIF/track-5.png", width = 650)
 
 col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
 if col7.button('Next'):

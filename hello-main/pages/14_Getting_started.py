@@ -20,7 +20,7 @@ st.code(""" mlflow.set_experiment("article_reccomender_system")""","python")
 st.markdown(""" By the time you run this command, you will start seeing a 
 folder name `mlruns` inside your directory. """)
 
-st.image("../GIF/Track-1.png",width=300)
+st.image("./hello-main/GIF/Track-1.png",width=300)
 
 st.text("what these files and folder represent, we'll see it soon")
 

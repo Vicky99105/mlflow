@@ -145,7 +145,7 @@ col1, col2 = st.columns([10,1])
 col1.code(code_str, language = "python")
 btn = col2.button("Run", key = "6")
 if btn:
-    st.image("../GIF/CB-3.png", width = 600)
+    st.image("./hello-main/GIF/CB-3.png", width = 600)
 
 st.text("""
 With personalized recommendations of content-based filtering model,

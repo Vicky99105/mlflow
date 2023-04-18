@@ -14,7 +14,7 @@ Furthermore, you even have  copy-and-paste examples available for you, on how to
 
 """)
 
-st.image("../GIF/track-12.png", width = 650)
+st.image("./hello-main/GIF/track-12.png", width = 650)
 
 col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
 if col7.button('Next'):
