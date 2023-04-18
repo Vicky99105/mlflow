@@ -41,7 +41,7 @@ for i in range(2):
 st.text("After running this code, you will see something like this inside dashboard")
 st.text("( Observe run name, metrics, duration , and model logged.)")
 
-st.video("../GIF/track-9.mov")
+st.video("./hello-main/GIF/track-9.mov")
 
 st.text("""If you click on the run name, you’ll see something like the following:""")
 st.image("./hello-main/GIF/track-11.png", width = 650)

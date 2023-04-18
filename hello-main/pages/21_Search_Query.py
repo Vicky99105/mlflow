@@ -6,5 +6,5 @@ st.write("### :red[Search it]")
 st.markdown("""Suppose you have performed various runs and experiment, the you can also search any specific run by simply querying like we do in sql""")
 
 
-st.video("../GIF/track-15.mov")
+st.video("./hello-main/GIF/track-15.mov")
 

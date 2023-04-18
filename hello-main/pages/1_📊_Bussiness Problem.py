@@ -84,7 +84,7 @@ with tabs3:
         # for i in range(3):
         #         st.text("")
 
-        st.image("../GIF/giphy.gif")
+        st.image("./hello-main/GIF/giphy.gif")
 
 
         with st.expander("Can you suggest some solution to this problem ?", True):
