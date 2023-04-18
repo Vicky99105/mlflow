@@ -57,7 +57,7 @@ def run():
 
         file_path = "path/to/file.txt"
 
-        st.image("./GIF/intro.gif")
+        st.image("GIF/intro.gif")
 
     for i in range(3):
         st.text("")
