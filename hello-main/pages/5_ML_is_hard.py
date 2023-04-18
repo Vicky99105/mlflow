@@ -5,7 +5,7 @@ import streamlit.components.v1 as components
 
 
 
-st.image("../Screenshot 2023-04-12 at 1.12.43 AM.png")
+st.image("./hello-main/Screenshot 2023-04-12 at 1.12.43 AM.png")
 
 for i in range(3):
     st.text("")

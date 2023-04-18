@@ -14,7 +14,7 @@ st.markdown("""
         
         """)
 
-st.image("../Screenshot 2023-04-11 at 11.10.04 PM.png")
+st.image("./hello-main/Screenshot 2023-04-11 at 11.10.04 PM.png")
 
 
 for i in range(3):

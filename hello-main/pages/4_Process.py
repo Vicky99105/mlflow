@@ -21,7 +21,7 @@ col1.markdown("""
 
         """)
 
-col2.image("../GIF/lif2.png") 
+col2.image("./hello-main/GIF/lif2.png") 
 
 col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
 if col7.button('Next'):
