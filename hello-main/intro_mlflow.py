@@ -56,7 +56,7 @@ def run():
     with col2:
 
         st.write(__file__)
-        st.image("/GIF/intro.gif")
+        st.image("intro.gif")
 
     for i in range(3):
         st.text("")
